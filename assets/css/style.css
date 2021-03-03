@@ -1,9 +1,13 @@
+.config-panel{
+    position: fixed!important;
+}
+
 @media(max-width:1024px){
     .d-lg-block{
         display: block!important;
     }
     .config-panel{
-        position: absolute!important;
+        position: fixed!important;
         top: 180px!important;
     }
 }
