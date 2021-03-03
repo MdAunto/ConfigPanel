@@ -2,4 +2,8 @@
     .d-lg-block{
         display: block!important;
     }
+    .config-panel{
+        position: absolute!important;
+        top: 180px!important;
+    }
 }
